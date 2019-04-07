@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:title="                播放音乐" android:id="@+id/menu_playmusic" />
+   <item android:title="                歌曲库" android:id="@+id/menu_musicbox" />
+   <item android:title="                播放列表" android:id="@+id/menu_playmusiclist"/>
+   <item android:title="                我的" android:id="@+id/menu_mine"/>
+
+</menu>
